@@ -66,7 +66,7 @@ After an extensive review and comparison between Prettier, ESLint --fix, and Bio
 
 ```markdown
 ---
-title: Choosing Biome over Prettier and ESLint --fix for Code Formatting and Linting
+title: Query Failures Due to UTC Timezone Assumptions
 
 id: CB-G-20240312002
 project: GlobalTimeApp
